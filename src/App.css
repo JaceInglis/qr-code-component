@@ -1,0 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.App {
+    background: hsl(212, 45%, 89%);
+    height: 100vh;
+}
